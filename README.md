@@ -1,2 +1,4 @@
 # MSDNet-keras
-Here is my implementation of MSDNet for keras
+This repo is inspired by https://arxiv.org/pdf/1703.09844.pdf
+
+More details regarding my work is comming soon
